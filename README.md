@@ -1,1 +1,291 @@
-TODO
+# 🚨🚨🚨 NOT READY FOR USE 🚨🚨🚨
+Everything in here, including this README is a work-in-progress
+
+## Page: Basics
+The constants page stores the values that make up the smallest attributes of Swarm Design System. These are exported to a Craft Library by the Design System team so that designers can optionally use them to keep their work in sync with the latest Design System updates.
+
+*Basics:*
+- Constants
+	- Spacing
+	- Media sizes
+	- Rounded corners
+	- Shadows
+	- Border styles
+- Color
+	- Brand colors
+	- Brand color combos
+	- UI colors
+	- Background colors
+	- Text colors (for inverted and default contexts)
+- Type styles
+	- Styles
+	- Weights
+	- Scale
+- Brand assets
+- Icons
+
+## Page: UI Components - Web
+Sticker sheet of common UI elements used on Meetup
+
+*Components:*
+- Avatar/
+	- default(noPhoto)/
+		- big
+		- default
+		- small
+	- member(noPhoto)/
+		- big
+		- default
+		- small
+- AvatarStack/
+	- big
+	- default
+	- small
+- GroupCard/
+	- No upcoming event
+	- No photo
+	- Event today or tomorrow
+	- Event within the week
+	- Event over a week out
+- EventCard/
+	- Upcoming/
+		- No response (default)
+		- Yes
+		- No
+		- Waitlisted
+		- 24h
+		- 1w
+		- full date
+	- Past/
+		- No response (default)
+		- Went
+	- Private group (location hidden)
+	- Canceled (In group context)
+	- Recurring
+- Accordion/
+	- Panel/
+		- Closed/
+			- TopPanel
+			- Default
+		- Open/
+			- TopPanel
+			- Default
+	- Panel--leftAligned/
+		- Closed/
+			- TopPanel
+			- Default
+		- Open/
+			- TopPanel
+			- Default
+- Button/
+	- Default/
+		- Text-only/
+			- Primary/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Default/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Disabled/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Contrast/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Contrast--primary/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+		- Left Icon/
+			- Primary/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Default/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Disabled/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Contrast/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Contrast--primary/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+	- Small/
+		- Text-only/
+			- Primary/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Default/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Disabled/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Contrast/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Contrast--primary/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+		- Left Icon/
+			- Primary/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Default/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Disabled/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Contrast/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Contrast--primary/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+	- Full width/
+		- Text-only/
+			- Primary/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Default/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Disabled/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Contrast/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Contrast--primary/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+		- Left Icon/
+			- Primary/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Default/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Disabled/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Contrast/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+			- Contrast--primary/
+				- Resting (text color + bg mixin)
+				- Hover (text color + bg mixin)
+				- Focus (text color + bg mixin)
+				- Active (text color + bg mixin)
+				- Disabled (text color + bg mixin)
+- PageHead/
+	- Just title
+	- Title + subtitle
+	- Title + 1 actions
+	- Title + 2 actions
+	- Title + 3 actions (mixins)
+	- Title + 2 actions + overflow
+- Popover/
+
+
+## Page: Layouts
+Does this belong in a different Sketch file? Similar to Material Design Whiteframes - it's a collection of reliable responsive layout templates.
+
+## Shared styles
+- Symbols
+	- UI components
+
+- Craft
+	- Colors
+	- Text styles
+	- Logos
+	- Brand assets
