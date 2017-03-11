@@ -275,7 +275,58 @@ Sticker sheet of common UI elements used on Meetup
 	- Title + 3 actions (mixins)
 	- Title + 2 actions + overflow
 - Popover/
-
+	- Open
+	- Hover/Focus
+- Modal and Dialog/
+	- Default
+- Forms/
+	- Label/ (mixins)
+		- Resting
+		- Error
+		- Required
+	- TextFields/
+		- Resting
+		- Hover
+		- Focus
+		- Error
+		- Disabled
+		- Empty w/ placeholder
+		- Empty w/o placeholder
+		- Filled
+		- WithIcon
+		- WithCharLimit
+		- WithCaption/
+			- Default
+			- Error
+	- Checkbox/
+		- On
+		- Off
+		- Indeterminate
+		- Focus
+		- Disabled
+		- Fieldset with legend
+	- Radio
+		- On
+		- Off
+		- Indeterminate
+		- Focus
+		- Disabled
+		- Fieldset with legend
+	- Select
+		- Resting
+		- Hover
+		- Focus
+		- Disabled
+		- Error
+	- Number
+		- Resting
+		- Hover
+		- Focus
+		- Disabled
+		- Error
+	- Date (COMING SOON)
+	- Time (COMING SOON)
+	- Launcher (COMING SOON)
 
 ## Page: Layouts
 Does this belong in a different Sketch file? Similar to Material Design Whiteframes - it's a collection of reliable responsive layout templates.
